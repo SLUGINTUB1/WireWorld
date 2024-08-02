@@ -1,0 +1,6 @@
+C:\Users\гном\Desktop\Wire_World_dev\Cellular_Automaton_Logic\bin\Debug\Cellular_Automaton_Logic.dll
+C:\Users\гном\Desktop\Wire_World_dev\Cellular_Automaton_Logic\bin\Debug\Cellular_Automaton_Logic.pdb
+C:\Users\гном\Desktop\Wire_World_dev\Cellular_Automaton_Logic\obj\Debug\Cellular_Automaton_Logic.csprojAssemblyReference.cache
+C:\Users\гном\Desktop\Wire_World_dev\Cellular_Automaton_Logic\obj\Debug\Cellular_Automaton_Logic.csproj.CoreCompileInputs.cache
+C:\Users\гном\Desktop\Wire_World_dev\Cellular_Automaton_Logic\obj\Debug\Cellular_Automaton_Logic.dll
+C:\Users\гном\Desktop\Wire_World_dev\Cellular_Automaton_Logic\obj\Debug\Cellular_Automaton_Logic.pdb

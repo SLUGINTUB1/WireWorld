@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maksim\\Desktop\\Wire_World_dev\\Cellular_Automaton_Logic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF33386-D792-4C42-AB01-A38666E6F6AB}|Cellular_Automaton_Logic.csproj|c:\\users\\maksim\\desktop\\wire_world_dev\\cellular_automaton_logic\\cellular_automaton_logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF33386-D792-4C42-AB01-A38666E6F6AB}|Cellular_Automaton_Logic.csproj|solutionrelative:cellular_automaton_logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cellular_Automaton_Logic.cs",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\Wire_World_dev\\Cellular_Automaton_Logic\\Cellular_Automaton_Logic.cs",
+              "RelativeDocumentMoniker": "Cellular_Automaton_Logic.cs",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\Wire_World_dev\\Cellular_Automaton_Logic\\Cellular_Automaton_Logic.cs",
+              "RelativeToolTip": "Cellular_Automaton_Logic.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:08:06.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

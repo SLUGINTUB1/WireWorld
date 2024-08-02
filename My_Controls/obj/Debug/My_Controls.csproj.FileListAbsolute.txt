@@ -1,0 +1,7 @@
+C:\Users\гном\Desktop\Wire_World_dev\My_Controls\bin\Debug\My_Controls.dll
+C:\Users\гном\Desktop\Wire_World_dev\My_Controls\bin\Debug\My_Controls.pdb
+C:\Users\гном\Desktop\Wire_World_dev\My_Controls\obj\Debug\My_Controls.csprojAssemblyReference.cache
+C:\Users\гном\Desktop\Wire_World_dev\My_Controls\obj\Debug\My_Controls.csproj.CoreCompileInputs.cache
+C:\Users\гном\Desktop\Wire_World_dev\My_Controls\obj\Debug\My_Controls.csproj.CopyComplete
+C:\Users\гном\Desktop\Wire_World_dev\My_Controls\obj\Debug\My_Controls.dll
+C:\Users\гном\Desktop\Wire_World_dev\My_Controls\obj\Debug\My_Controls.pdb

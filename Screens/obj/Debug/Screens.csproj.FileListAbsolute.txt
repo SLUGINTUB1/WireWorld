@@ -1,0 +1,7 @@
+C:\Users\гном\Desktop\Wire_World_dev\Screens\bin\Debug\Screens.dll
+C:\Users\гном\Desktop\Wire_World_dev\Screens\bin\Debug\Screens.pdb
+C:\Users\гном\Desktop\Wire_World_dev\Screens\obj\Debug\Screens.csprojAssemblyReference.cache
+C:\Users\гном\Desktop\Wire_World_dev\Screens\obj\Debug\Screens.csproj.CoreCompileInputs.cache
+C:\Users\гном\Desktop\Wire_World_dev\Screens\obj\Debug\Screens.csproj.CopyComplete
+C:\Users\гном\Desktop\Wire_World_dev\Screens\obj\Debug\Screens.dll
+C:\Users\гном\Desktop\Wire_World_dev\Screens\obj\Debug\Screens.pdb

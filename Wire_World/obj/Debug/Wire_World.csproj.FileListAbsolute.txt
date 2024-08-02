@@ -1,0 +1,11 @@
+C:\Users\гном\Desktop\Wire_World_dev\Wire_World\bin\Debug\Wire_World.exe.config
+C:\Users\гном\Desktop\Wire_World_dev\Wire_World\bin\Debug\Wire_World.exe
+C:\Users\гном\Desktop\Wire_World_dev\Wire_World\bin\Debug\Wire_World.pdb
+C:\Users\гном\Desktop\Wire_World_dev\Wire_World\obj\Debug\Wire_World.csprojAssemblyReference.cache
+C:\Users\гном\Desktop\Wire_World_dev\Wire_World\obj\Debug\Wire_World.Form1.resources
+C:\Users\гном\Desktop\Wire_World_dev\Wire_World\obj\Debug\Wire_World.Properties.Resources.resources
+C:\Users\гном\Desktop\Wire_World_dev\Wire_World\obj\Debug\Wire_World.csproj.GenerateResource.cache
+C:\Users\гном\Desktop\Wire_World_dev\Wire_World\obj\Debug\Wire_World.csproj.CoreCompileInputs.cache
+C:\Users\гном\Desktop\Wire_World_dev\Wire_World\obj\Debug\Wire_World.csproj.CopyComplete
+C:\Users\гном\Desktop\Wire_World_dev\Wire_World\obj\Debug\Wire_World.exe
+C:\Users\гном\Desktop\Wire_World_dev\Wire_World\obj\Debug\Wire_World.pdb
