@@ -9,8 +9,8 @@ Not only was the user interface developed using custom libraries, but individual
 This approach significantly improved the development process. 
 
 ## Diagrams:
-* [UseCase](https://drive.google.com/file/d/1GDQzajZB76lBoxLBEuXuNUQbFjpHJXay/view?usp=drive_link)
-* [UML class diagram](https://drive.google.com/file/d/1r0_HckRJF1P0qXA6CWcku1hI_hQIErZq/view?usp=drive_link)
+* [UseCase](https://drive.google.com/file/d/1O18ldNhz5eA73RinErr-CxhfC3Nofwws/view?usp=drive_link)
+* [UML class diagram](https://drive.google.com/file/d/1mZ3vosOoxwI4v3xILEMNYdOMzH_mtuuP/view?usp=drive_link)
  
 ## Screenshots
 #### Main menu:
